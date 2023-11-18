@@ -1,0 +1,17 @@
+[
+    {
+        "id": 123456789,
+        "category": "vasita",
+        "title": "Seat Leon",
+        "owner": "Kerem Akman",
+        "subTitle": "Vasıta",
+        "location": "Gaziantep",
+        "images": [
+            "https://i.hizliresim.com/gljw85t.png",
+        ],
+        "price": "840,000 TL",
+        "publishDate": "18.11.2023",
+        "description": "",
+    
+        ]
+   
