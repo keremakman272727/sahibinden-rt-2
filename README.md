@@ -1,7 +1,7 @@
 #Sahibinden react native uygulaması
 • kategoriler, ikonlar, ürünler ve ürün detayları eklendi.
 
-created by • Kerem Akman •
+created by • Kerem Akman • 2020507045 OKÜ UNİVERSTY
 
 görseller:
 
