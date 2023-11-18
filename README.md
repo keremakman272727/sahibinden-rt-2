@@ -2,3 +2,8 @@
 • kategoriler, ikonlar, ürünler ve ürün detayları eklendi.
 
 created by • Kerem Akman •
+
+görseller:
+<img src="https://i.hizliresim.com/3e8o19k.jpg" alt="alt text" width="320" height="180">
+
+<img src="https://i.hizliresim.com/lhd1ucb.jpg" alt="alt text" width="320" height="180">
